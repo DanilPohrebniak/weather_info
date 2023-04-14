@@ -1,0 +1,1 @@
+A weather data service that allows you to save your preferred cities. Implemented using Flask.
